@@ -5106,9 +5106,9 @@ basic-auth@~2.0.1:
     safe-buffer "5.1.2"
 
 beachball@^2.20.0:
-  version "2.31.3"
-  resolved "https://registry.yarnpkg.com/beachball/-/beachball-2.31.3.tgz#ce29efc17fe38a5531ca8984a9fc8f3078cc0808"
-  integrity sha512-LKfxF9HVic6UpiFyz3tqTeKFtvF25mXTiUQGyicoYDdimCnbdoRYadIqfMSYq266QncLPHeVjYdN7AZyUJWonw==
+  version "2.31.4"
+  resolved "https://registry.yarnpkg.com/beachball/-/beachball-2.31.4.tgz#22c7a7ac551fde5b3f6eede4628082e08c498dbd"
+  integrity sha512-5bCBIhGQwk7XNvfBeoVDGbXEN9PR84xDMy4IHhtw3n2Yy1HiXcc88E+n9uTSLXveKNsBS7P3KETYf+/qgtECYw==
   dependencies:
     cosmiconfig "^7.0.0"
     execa "^5.0.0"
@@ -12043,9 +12043,9 @@ react-native-gradle-plugin@^0.0.6:
   integrity sha512-eIlgtsmDp1jLC24dRn43hB3kEcZVqx6DUQbR0N1ABXGnMEafm9I3V3dUUeD1vh+Dy5WqijSoEwLNUPLgu5zDMg==
 
 react-native-macos@^0.68.0:
-  version "0.68.51"
-  resolved "https://registry.yarnpkg.com/react-native-macos/-/react-native-macos-0.68.51.tgz#352b916fe37410486ec47425fa7a2ca9c70243cc"
-  integrity sha512-1fHzc2baPdZtrYhuWbQBXL+PJcZQy/Apzet2IogsOGvWdUisH1NfYDnfi09sHy5ru0K57V1WRYbsVRTSe0Er0Q==
+  version "0.68.54"
+  resolved "https://registry.yarnpkg.com/react-native-macos/-/react-native-macos-0.68.54.tgz#220d3f71e119d57e68daeef18967015b7a301493"
+  integrity sha512-gaa7+Y5am0QIu8I6D+zcxdgDnrh3AF1QzmQk0PmMFc42ewmjIaP+5QkhwdDiTenqbONPnTzu+niY47Iv1bN7+g==
   dependencies:
     "@jest/create-cache-key-function" "^27.0.1"
     "@react-native-community/cli" "^7.0.3"
