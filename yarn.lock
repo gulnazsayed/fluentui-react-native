@@ -8777,8 +8777,8 @@ __metadata:
   linkType: hard
 
 "appium-xcuitest-driver@npm:^7.9.1":
-  version: 7.13.0
-  resolution: "appium-xcuitest-driver@npm:7.13.0"
+  version: 7.15.1
+  resolution: "appium-xcuitest-driver@npm:7.15.1"
   dependencies:
     "@colors/colors": "npm:^1.6.0"
     appium-idb: "npm:^1.6.13"
@@ -8804,8 +8804,8 @@ __metadata:
     teen_process: "npm:^2.0.60"
     ws: "npm:^8.13.0"
   peerDependencies:
-    appium: ^2.4.1
-  checksum: 10c0/0ee2546bdeed82e3ce123e58cfdb7c453ca769bd4020863f56b9ca38683c54ec21f89e059f2ad87935eb0da1595cb359bb150b669871f4cb6ac94cb96b0122e0
+    appium: ^2.5.4
+  checksum: 10c0/1b70d22cf41b04392dae87bd7fb2d6c351af97e7270a018519495213855f6eb1c46f9778a4ebdb890286e7ed3a6ffaaa7d749fecafa229b21f13ca89fbf64839
   languageName: node
   linkType: hard
 
